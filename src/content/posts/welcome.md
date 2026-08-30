@@ -1,16 +1,15 @@
 ---
 current: post
-cover:  assets/images/welcome.jpg
+cover:  assets/images/tierra.jpg
 navigation: True
-title: Welcome to Ghost
-date: 2017-07-27 10:00:00
+title: Periodista Populista
 tags: [Getting started]
 class: post-template
 subclass: 'post'
 author: ghost
 ---
 
-Hey! Welcome to Ghost, it's great to have you :)
+Hola Bienvenido a Periodista Populista, it's great to have you :)
 
 We know that first impressions are important, so we've populated your new site with some initial **Getting Started** posts that will help you get familiar with everything in no time. This is the first one!
 
