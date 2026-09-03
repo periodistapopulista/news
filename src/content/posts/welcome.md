@@ -3,6 +3,7 @@ current: post
 cover:  assets/images/tierra.jpg
 navigation: True
 title: Periodista Populista
+date: 2024-01-01
 tags: [Getting started]
 class: post-template
 subclass: 'post'

@@ -10,8 +10,10 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/cloudflare": "^14.2.6",
     "@astrojs/rss": "^4.0.19",
-    "astro": "^7.1.0"
+    "astro": "^7.2.10",
+    "wrangler": "^4.128.0"
   },
   "devDependencies": {
     "js-yaml": "^5.2.2",
